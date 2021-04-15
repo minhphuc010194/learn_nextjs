@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         hello world
-         <img src="./image_test.jpg" />
+         <img src="./image_test.jpg" width="150px" />
       </main>
 
       <footer>
