@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         hello world :D jasdljflsadjfkl safkljdslak fjklsadjdflk
-         <img src="/image_test.jpg" width="150px" alt="test images" className="image-test" />
+         <img src="../static/image_test.jpg" width="150px" alt="test images" className="image-test" />
       </main>
 
       <footer>
@@ -24,7 +24,7 @@ export default function Home() {
         </a>
       </footer>
 
-      {/* <style jsx>{`
+      <style jsx>{`
         .container {
           min-height: 100vh;
           padding: 0 0.5rem;
@@ -168,7 +168,7 @@ export default function Home() {
         * {
           box-sizing: border-box;
         }
-      `}</style> */}
+      `}</style>
     
     </div>
   )
