@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        hello world
+        hello world :D
          <img src="./image_test.jpg" width="150px" />
       </main>
 
