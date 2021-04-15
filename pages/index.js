@@ -9,8 +9,8 @@ export default function Home() {
       </Head>
 
       <main>
-        hello world :D
-         <img src="/image_test.jpg" width="150px" />
+        hello world :D jasdljflsadjfkl safkljdslak fjklsadjdflk
+         <img src="/image_test.jpg" width="150px" alt="test images" className="image-test" />
       </main>
 
       <footer>
